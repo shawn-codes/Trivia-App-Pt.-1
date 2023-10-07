@@ -2,7 +2,7 @@ Project 3 - *Trivia App*
 
 Submitted by: **Vashawn Robinson**
 
-**Trivia App** is an app that resembles a simple trivia app. Questions vary in topic and the user is prompted to select the correct answer out of four possible answer choices.
+**Trivia App** is an app that resembles a simple trivia app. Questions vary in topic and the user is to select the correct answer out of four possible answer choices.
 
 Time spent: **5** hours spent in total
 
