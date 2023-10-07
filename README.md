@@ -28,19 +28,19 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![Video Walkthrough](TriviaApp.gif)
+![Video Walkthrough](TriviApp.gif)
 
 GIF created with https://getkap.co/
 
 
 ## Notes
 
-This app was significantly more difficult to complete than the previous projects. A good amount of time was spent doing research. 
+Difficult to complete than the previous projects we have been assigned.
 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Vashawn Robinson]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
